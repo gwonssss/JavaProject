@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\Users\ducco\Desktop\ws\.metadata\.plugins\org.eclipse.jdt.core
+3559133764.index
+2193894276.index
+3227727833.index
+1340701061.index
+1865797976.index
+514321830.index
+2292438735.index
